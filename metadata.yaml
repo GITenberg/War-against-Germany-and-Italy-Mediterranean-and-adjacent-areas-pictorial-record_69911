@@ -1,0 +1,42 @@
+_repo: War-against-Germany-and-Italy-Mediterranean-and-adjacent-areas-pictorial-record_69911
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Bacon, Mary Schell Hoke
+    alias: Bacon, Dolores
+    birthdate: 1870
+    deathdate: 1934
+    gutenberg_agent_id: '2265'
+    url: http://www.gutenberg.org/2009/agents/2265
+    wikipedia: http://www.gutenberg.org/ebooks/author/40308
+  - agent_name: Hatlem, John
+    gutenberg_agent_id: '55490'
+    url: http://www.gutenberg.org/2009/agents/55490
+  - agent_name: Hunter, Kenneth E.
+    gutenberg_agent_id: '55299'
+    url: http://www.gutenberg.org/2009/agents/55299
+  - agent_name: Phillips, W. B. (Wesley Briggs)
+    alias: Phillips, Wesley Briggs
+    gutenberg_agent_id: '34990'
+    url: http://www.gutenberg.org/2009/agents/34990
+description: ''
+gutenberg_issued: '2023-01-30'
+identifiers:
+  gutenberg: '69911'
+language: en
+pgterms:marc904: https://archive.org/details/WarAgainstGermanyAndItalyMediterraneanAndAdjacentAreas/mode/2up
+pgterms:marc905: 20220109001635hatlem
+pgterms:marc906: '1951'
+pgterms:marc907: US
+production_note: Brian Coe, Karin Spence and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: 'United States: US Government Printing Office,1951.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'War against Germany and Italy: Mediterranean and adjacent areas; pictorial
+  record'
+url: http://www.gutenberg.org/ebooks/69911
