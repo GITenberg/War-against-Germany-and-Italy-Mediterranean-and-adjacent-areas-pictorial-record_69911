@@ -1,5 +1,8 @@
 _repo: War-against-Germany-and-Italy-Mediterranean-and-adjacent-areas-pictorial-record_69911
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69911-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Bacon, Mary Schell Hoke
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '34990'
     url: http://www.gutenberg.org/2009/agents/34990
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69911#War-against-Germany-and-Italy-Mediterranean-and-adjacent-areas-pictorial-record
 gutenberg_issued: '2023-01-30'
 identifiers:
   gutenberg: '69911'
